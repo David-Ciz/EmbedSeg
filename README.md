@@ -23,6 +23,10 @@ We refer to the techniques elaborated in the publication, here as **EmbedSeg**. 
 With `EmbedSeg`, we obtain state-of-the-art results on multiple real-world microscopy datasets. `EmbedSeg` has a small enough memory footprint (between 0.7 to about 3 GB) to allow network training on virtually all CUDA enabled hardware, including laptops.
 
 
+### IT4I HPC installation
+
+When installing on IT4I HPC clusters on Karolina, please follow the installation instructions in INSTALL_Karolina.md (TODO: to be tested further and generalized for any user)
+
 ### Dependencies 
 
 One could execute these lines of code to run this branch with GPU support:
